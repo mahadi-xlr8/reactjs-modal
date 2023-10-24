@@ -1,3 +1,5 @@
+import './style.css'
+import React from 'react';
 const ModalWrapper = ({ children, isOpen, onClose, backgroundColor, position }) => {
     const positionValue = position || {
       top: "50%",
