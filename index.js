@@ -17,7 +17,6 @@ const ModalWrapper = ({ children, isOpen, onClose, backgroundColor, position }) 
             zIndex: 10000,
           }}
           onClick={onClose}
-          id="modal-background"
         ></div>
         <div
           style={{
