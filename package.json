@@ -1,0 +1,20 @@
+{
+  "name": "reactjs-modal",
+  "version": "1.0.0",
+  "description": "an easy to use react js component for creating modal pop-up",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "modal",
+    "pop-up",
+    "reactjs",
+    "react"
+  ],
+  "author": "Mahadi Hasan",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^18.2.0"
+  }
+}
